@@ -1,0 +1,35 @@
+_repo: Die-Versuchung-des-Pescara_3675
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Meyer, Conrad Ferdinand
+    aliases:
+    - Meyer, Konrad Ferdinand
+    - Meyer, C. F. (Conrad Ferdinand)
+    - Meyer-Ziegler, Konrad Ferdinand
+    birthdate: 1825
+    deathdate: 1898
+    gutenberg_agent_id: '1259'
+    url: http://www.gutenberg.org/2009/agents/1259
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
+    - http://de.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3675'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pescara, Ferdinando Francesco d''Avalos, marchese di, 1489-1525 -- Fiction'
+- !lcsh 'Italy -- History -- 1492-1559 -- Fiction'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Italy -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: Die Versuchung des Pescara
+url: http://www.gutenberg.org/ebooks/3675
